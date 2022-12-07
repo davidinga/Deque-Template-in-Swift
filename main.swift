@@ -1,3 +1,7 @@
+/*
+https://github.com/apple/swift-collections/blob/main/Documentation/Deque.md
+*/
+
 @frozen
 public struct Deque<Element> {
   @usableFromInline
